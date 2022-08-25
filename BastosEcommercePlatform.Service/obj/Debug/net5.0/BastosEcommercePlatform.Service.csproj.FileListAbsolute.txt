@@ -1,0 +1,12 @@
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\bin\Debug\net5.0\BastosEcommercePlatform.Service.deps.json
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\bin\Debug\net5.0\BastosEcommercePlatform.Service.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\bin\Debug\net5.0\BastosEcommercePlatform.Service.pdb
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\BastosEcommercePlatform.Service.csproj.AssemblyReference.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\BastosEcommercePlatform.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\BastosEcommercePlatform.Service.AssemblyInfoInputs.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\BastosEcommercePlatform.Service.AssemblyInfo.cs
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\BastosEcommercePlatform.Service.csproj.CoreCompileInputs.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\BastosEcommercePlatform.Service.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\refint\BastosEcommercePlatform.Service.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\BastosEcommercePlatform.Service.pdb
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Service\obj\Debug\net5.0\ref\BastosEcommercePlatform.Service.dll

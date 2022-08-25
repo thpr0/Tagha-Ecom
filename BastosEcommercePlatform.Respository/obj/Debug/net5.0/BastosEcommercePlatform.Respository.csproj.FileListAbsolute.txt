@@ -1,0 +1,15 @@
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\bin\Debug\net5.0\BastosEcommercePlatform.Respository.deps.json
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\bin\Debug\net5.0\BastosEcommercePlatform.Respository.runtimeconfig.json
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\bin\Debug\net5.0\BastosEcommercePlatform.Respository.runtimeconfig.dev.json
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\bin\Debug\net5.0\BastosEcommercePlatform.Respository.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\bin\Debug\net5.0\BastosEcommercePlatform.Respository.pdb
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.csproj.AssemblyReference.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.AssemblyInfoInputs.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.AssemblyInfo.cs
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.csproj.CoreCompileInputs.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\refint\BastosEcommercePlatform.Respository.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.pdb
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\BastosEcommercePlatform.Respository.genruntimeconfig.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlatform.Respository\obj\Debug\net5.0\ref\BastosEcommercePlatform.Respository.dll

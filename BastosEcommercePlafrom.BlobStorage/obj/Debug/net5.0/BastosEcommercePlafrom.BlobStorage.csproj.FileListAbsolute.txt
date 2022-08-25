@@ -1,0 +1,12 @@
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\bin\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.deps.json
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\bin\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\bin\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.pdb
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.csproj.AssemblyReference.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.AssemblyInfoInputs.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.AssemblyInfo.cs
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.csproj.CoreCompileInputs.cache
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\refint\BastosEcommercePlafrom.BlobStorage.dll
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\BastosEcommercePlafrom.BlobStorage.pdb
+C:\Users\emlagzouli\source\repos\BastosEcommercePlatform\BastosEcommercePlafrom.BlobStorage\obj\Debug\net5.0\ref\BastosEcommercePlafrom.BlobStorage.dll
